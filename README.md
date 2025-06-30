@@ -34,5 +34,5 @@ Exécuter l'application
 
 👤 Auteur
 
-Makiese Bertony
+Makiese Bertony\n
 Développé dans le cadre de projets personnels© 2025
