@@ -13,7 +13,7 @@ Elle trie automatiquement les fichiers d'un dossier en les rangeant dans des sou
 🚀 Installation
 
 Cloner le projet
-- git clone https://github.com/ton-pseudo/trieur-de-fichiers.git
+- git clone https://github.com/Bertony-29/Trieur-de-fichiers.git
 cd trieur-de-fichiers
 
 Exécuter l'application
