@@ -1,5 +1,4 @@
 # Trieur de fichiers
-Il s'agit de mon premier projet perso que je met sur github.
 Une application simple d'organisation de fichiers, développée avec Python et Tkinter. 
 Elle trie automatiquement les fichiers d'un dossier en les rangeant dans des sous-dossiers en fonction de leur extension.
 
@@ -35,3 +34,4 @@ Exécuter l'application
 
 Makiese Bertony
 - Développé dans le cadre de projets personnels© 2025
+- - Il s'agit de mon premier projet perso que je met sur github.
