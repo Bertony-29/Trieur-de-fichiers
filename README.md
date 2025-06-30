@@ -1,5 +1,5 @@
 # Trieur de fichiers
-
+Il s'agit de mon premier projet perso que je met sur github.
 Une application simple d'organisation de fichiers, développée avec Python et Tkinter. 
 Elle trie automatiquement les fichiers d'un dossier en les rangeant dans des sous-dossiers en fonction de leur extension.
 
@@ -10,7 +10,6 @@ Elle trie automatiquement les fichiers d'un dossier en les rangeant dans des sou
 - Création automatique des dossiers cibles
 - Ouverture du dossier trié
 - Messages d'information et de confirmation
-- Développé par Bertony © 2025
 
 🚀 Installation
 
