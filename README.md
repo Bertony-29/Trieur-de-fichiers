@@ -34,4 +34,3 @@ Exécuter l'application
 
 Makiese Bertony
 - Développé dans le cadre de projets personnels© 2025
-- - Il s'agit de mon premier projet perso que je met sur github.
