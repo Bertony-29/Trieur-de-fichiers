@@ -17,7 +17,7 @@ Cloner le projet
 cd trieur-de-fichiers
 
 Exécuter l'application
-- python trieur_GUI.py
+- python Trieur_GUI.py
 
 ⚡ Assurez-vous d'avoir Python 3 installé sur votre machine.
 
